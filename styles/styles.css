@@ -26,3 +26,13 @@ img{
 .mainpagetext{
   font-size: 25px;
 }
+.menucards{
+  justify-content: space-between
+}
+.cards-row {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbar-nav .nav-link {
+    font-size: 1.2rem; /* adjust the size as you like */
+}
