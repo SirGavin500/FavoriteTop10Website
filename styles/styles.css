@@ -5,7 +5,7 @@ img{
     height: 15rem;
 }
 .custom-card-color {
-  background-color: #FDD3AC;
+  background-color: #FDD3AC !important;
 }
 #carouselExampleAutoplaying img {
  width: 100%;
