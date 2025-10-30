@@ -7,3 +7,7 @@ img{
 .custom-card-color {
   background-color: #FDD3AC;
 }
+#carouselExampleAutoplaying img {
+  height: 600px;     
+  object-fit: cover; 
+}
