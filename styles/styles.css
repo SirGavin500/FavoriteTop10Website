@@ -1,0 +1,9 @@
+body{
+    background-image: url(../Photos/food-background.jpg);
+}
+img{
+    height: 15rem;
+}
+.custom-card-color {
+  background-color: #FDD3AC;
+}
