@@ -13,12 +13,13 @@ img{
   object-fit: fill;
 }
 .transparentbox{
-    background-color: rgba(143, 143, 143, 0.733);
+    background-color: #FDD3AC;
     color: white;
     margin-bottom: 5rem;
     padding: 30px 90px;
     border-radius:10px;
     text-align: center;
+    color: black;
     /* position: absolute; */
   /* top: 115%; */
   /* left: 50%; */
