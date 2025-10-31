@@ -15,7 +15,7 @@ img{
 .transparentbox{
     background-color: rgba(143, 143, 143, 0.733);
     color: white;
-    margin-bottom: 10rem;
+    margin-bottom: 5rem;
     padding: 30px 90px;
     border-radius:10px;
     text-align: center;
@@ -37,3 +37,19 @@ img{
 .navbar-nav .nav-link {
     font-size: 1.2rem; /* adjust the size as you like */
 }
+.navbar-peach{
+  background-color: #FDD3AC;
+}
+h1{
+  text-align: center;
+
+  background-color: #FDD3AC;
+}
+.navbar-custom {
+    background-color: #FDD3AC;
+}
+
+.navbar-custom .navbar-brand,
+        .navbar-custom .navbar-text {
+            color: peachpuff;
+        }
